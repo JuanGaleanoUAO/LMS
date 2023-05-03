@@ -13,7 +13,7 @@ export const blogList = [
   },
   {
     id: 2,
-    title: "Milan Places That Highlight The City",
+    title: "Calculo",
     category: "travel",
     subCategory: ["vacation", "holidays", "sight seeing"],
     description:

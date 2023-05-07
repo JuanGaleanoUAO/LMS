@@ -25,7 +25,7 @@ export const blogList = [
   },
   {
     id: 3,
-    title: "Online Shopping – An Alternative to Shopping in the Mall",
+    title: "Diseño",
     category: "shopping",
     subCategory: ["e-commerce store", "clothing", "shopping store"],
     description:
